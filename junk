@@ -1,0 +1,334 @@
+
+
+BEGIN ... ===========================
+--- daily_git.sh --- 
+directory is .... 
+Wed Nov 30 22:30:36 PST 2022
+===========================
+
+
+---------------------------
+Wed Nov 30 22:30:36 PST 2022
+BEGIN ...... . ... /home/jim/code/mp3
+STATUS ......
+
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+
+ADD FILES ......
+COMMIT ......
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+PUSH ......
+
+
+FINAL STATUS ......
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+---------------------------
+
+
+---------------------------
+Wed Nov 30 22:30:37 PST 2022
+BEGIN ...... . ... /home/jim/code/youtube_api
+STATUS ......
+
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+
+ADD FILES ......
+COMMIT ......
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+PUSH ......
+
+
+FINAL STATUS ......
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+---------------------------
+
+
+---------------------------
+Wed Nov 30 22:30:38 PST 2022
+BEGIN ...... . ... /home/jim/code/zsh_project
+STATUS ......
+
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+
+ADD FILES ......
+COMMIT ......
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+PUSH ......
+
+
+FINAL STATUS ......
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+---------------------------
+
+
+---------------------------
+Wed Nov 30 22:30:40 PST 2022
+BEGIN ...... . ... /home/jim/code/code_publish
+STATUS ......
+
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+
+ADD FILES ......
+COMMIT ......
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+PUSH ......
+
+
+FINAL STATUS ......
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+---------------------------
+
+
+---------------------------
+Wed Nov 30 22:30:41 PST 2022
+BEGIN ...... . ... /home/jim/code/docs
+STATUS ......
+
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+
+ADD FILES ......
+COMMIT ......
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+PUSH ......
+
+
+FINAL STATUS ......
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+---------------------------
+
+
+---------------------------
+Wed Nov 30 22:30:42 PST 2022
+BEGIN ...... . ... /home/jim/code/try_things_here
+STATUS ......
+
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+
+ADD FILES ......
+COMMIT ......
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+PUSH ......
+
+
+FINAL STATUS ......
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+---------------------------
+
+
+---------------------------
+Wed Nov 30 22:30:43 PST 2022
+BEGIN ...... . ... /home/jim/code/nvim_project
+STATUS ......
+
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+
+ADD FILES ......
+COMMIT ......
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+PUSH ......
+
+
+FINAL STATUS ......
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+---------------------------
+
+
+---------------------------
+Wed Nov 30 22:30:44 PST 2022
+BEGIN ...... . ... /home/jim/code/lua_project
+STATUS ......
+
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+
+ADD FILES ......
+COMMIT ......
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+PUSH ......
+
+
+FINAL STATUS ......
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+---------------------------
+
+
+---------------------------
+Wed Nov 30 22:30:45 PST 2022
+BEGIN ...... . ... /home/jim/code/SHINY
+STATUS ......
+
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+
+ADD FILES ......
+COMMIT ......
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+PUSH ......
+
+
+FINAL STATUS ......
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+---------------------------
+
+
+---------------------------
+Wed Nov 30 22:30:46 PST 2022
+BEGIN ...... . ... /home/jim/code/health_labs
+STATUS ......
+
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+
+ADD FILES ......
+COMMIT ......
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+PUSH ......
+
+
+FINAL STATUS ......
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+---------------------------
+
+
+---------------------------
+Wed Nov 30 22:30:48 PST 2022
+BEGIN ...... . ... /home/jim/dotfiles
+STATUS ......
+
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+
+ADD FILES ......
+COMMIT ......
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+PUSH ......
+
+
+FINAL STATUS ......
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+---------------------------
+
+
+---------------------------
+Wed Nov 30 22:30:49 PST 2022
+BEGIN ...... . ... /home/jim/bin
+STATUS ......
+
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	junk
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+
+ADD FILES ......

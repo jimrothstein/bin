@@ -3,8 +3,9 @@
 
 # file <- "start_tmux.sh"
 
-#Wed Jun 15 16:24:41 PDT 2022
-#	now using .conf for tmux
+#   Wed Jun 15 16:24:41 PDT 2022
+#	  now using ~/.config/.conf for tmux
+#	  USAGE:    tmux <CR>
 
 exit
 
@@ -12,6 +13,9 @@ exit
 
 # If no server, TMUX creates one with new session command
 tmux new-session -d -s jimSession
+
+# -A, if session exists attach
+tmux new-session -A -s jimSession
 tmux rename-window 'win_tmux'
 tmux new-window -n 'win_code'
 

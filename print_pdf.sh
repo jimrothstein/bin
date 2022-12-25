@@ -1,6 +1,6 @@
 #!/bin/zsh
 # ----------------------------
-#	FILE:	
+#	~/bin/print_pdf.sh
 # ----------------------------
 #
 # =========================
@@ -21,7 +21,7 @@ pandoc "$1" \
 				--toc \
 				--toc-depth=4 \
 				--pdf-engine=lualatex \
-				--include-in-header ~/dotfiles/geometry.tex \
+				--include-in-header ~/dotfiles/tex/geometry.tex \
 				-o "$2"
 
 exit

@@ -49,6 +49,9 @@ git pull
 cd /home/jim/code/SHINY
 git pull
 
+cd /home/jim/code/NSE_project
+git pull
+
 
 cd /home/jim/code/health_labs
 git pull

@@ -36,6 +36,9 @@ cd /home/jim/code/code_publish
 cd /home/jim/code/docs
 /home/jim/bin/git_add_push.sh .
 
+cd /home/jim/code/NSE_project
+/home/jim/bin/git_add_push.sh .
+
 # cd /home/jim/code/try_things_here
 # /home/jim/bin/git_add_push.sh .
 

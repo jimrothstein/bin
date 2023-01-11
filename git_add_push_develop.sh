@@ -36,7 +36,9 @@ add_commit_push()
 	line="---------------------------"
 	#echo "\n"
 	echo $line
-	echo "$(date) :: ${PWD}" 
+  echo ${PWD}
+	echo "$(date)"
+
 	#echo "BEGIN ...... ${1} ... ${PWD}" 
 
 	#echo "\n"
@@ -44,8 +46,8 @@ add_commit_push()
 	#git s
 
 	
-	echo "\n"
-	echo "ADD FILES ......" 
+	#echo "\n"
+	#echo "ADD FILES ......" 
 	git a
 
 	#echo "\n"

@@ -37,6 +37,7 @@ add_commit_push()
 	#echo "\n"
 	echo $line
   echo ${PWD}
+  echo "\n"
 	echo "$(date)"
 
 	#echo "BEGIN ...... ${1} ... ${PWD}" 

@@ -36,12 +36,12 @@ add_commit_push()
 	line="---------------------------"
 	#echo "\n"
 	echo $line
-	echo "$(date) ${PWD}" 
+	echo "$(date) :: ${PWD}" 
 	#echo "BEGIN ...... ${1} ... ${PWD}" 
 
 	#echo "\n"
-	echo "STATUS ......\n"
-	git s
+	#echo "STATUS ......\n"
+	#git s
 
 	
 	echo "\n"

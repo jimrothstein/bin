@@ -1,9 +1,13 @@
 #!/bin/zsh
 
 #	TODO
-#		-		error check on arg1
+#	  -   
+#       Wed 11Jan2023
 #		-		include built in arry of directories to ALWAYS run.
 #		-		if arg1 is "." (current dir) expand to FULL PATH
+#		-   to uppper DIRECTORY
+#		-   suppress git output, unless ERROR
+#		-   catch git ERROR, and put into IF
 #
 #
 #	PURPOSE:		Automate git add, git push  for given REPO.

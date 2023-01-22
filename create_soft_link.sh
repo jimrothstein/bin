@@ -42,7 +42,6 @@ ln -sf ~/dotfiles/completion.zsh 	~/.config/zsh/completion.zsh
 ln -sf ~/dotfiles/prompt.zsh 		~/.config/zsh/prompt.zsh
 ln -sf ~/dotfiles/aliases.zsh 		~/.config/zsh/aliases.zsh
 
-
 # ~/.config/nvim/
 ln -sf ~/dotfiles/init.lua ~/.config/nvim/init.lua
 #

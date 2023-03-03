@@ -55,6 +55,9 @@ cd /home/jim/code/docs
 #cd /home/jim/code/health_labs
 #/home/jim/bin/git_add_push.sh .
 
+cd /home/jim/code/jimTools
+/home/jim/bin/git_add_push.sh .
+
 #	---------------------
 #	BEGIN:			non - code REPOS 
 #	---------------------

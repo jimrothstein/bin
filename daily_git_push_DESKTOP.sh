@@ -1,1 +1,0 @@
-/home/jim/dotfiles/sh/daily_git.sh

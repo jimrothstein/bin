@@ -1,1 +1,0 @@
-/home/jim/code/jimTools/Rscripts/daily_git_push_DESKTOP.R

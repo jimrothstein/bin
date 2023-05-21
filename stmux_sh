@@ -8,11 +8,13 @@
 #
 #   TODO:   !so how does -A work?
 #
-#tmux new-session -A -s jimSession -D
 SESSION=jimSession
+
+#   -d detach all other sessions
+#   -A if $SESSION exits, attach to it
+#   -s create $SESSIION othewise
 tmux new-session -d -A -s $SESSION
-#
-#tmux new-session -s jimSession -d 
+
 
 #   tmux creates first window when session created; 
 tmux rename-window -t $SESSION:0  ZERO
@@ -29,9 +31,11 @@ tmux select-window -t $SESSION:1
 ## USAGE:   hold control & shift key, tap left or right arrow
 #   FAIL: (why?)
 #
-tmux bind-key -n C-S-Left previous-window
-tmux bind-key -n C-S-Right next-window
+#   -n  normal, ie do not use prefix
+# tmux bind-key -n C-S-Left previous-window
+# tmux bind-key -n C-S-Right next-window
 
+# Not sure
 tmux bind-key r source-file ~/.tmux.conf \; display-message " Config reloaded.."
 
 # Works

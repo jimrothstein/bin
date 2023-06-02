@@ -7,8 +7,13 @@
 #               Be sure no other sessions
 #
 #   TODO:   !so how does -A work?
-#
+#   2023-06-01
+#   -   escape-time?
+j
 SESSION=jimSession
+
+## experimental
+set-option -sg escape-time 10
 
 #   -d detach all other sessions
 #   -A if $SESSION exits, attach to it

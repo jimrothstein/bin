@@ -1,7 +1,7 @@
 #!/bin/zsh
 #
-# 1 MAY 2023  
-#
+# 12 JUNE 2023
+# - changed status-style
 #   PURPOSE:    Replaces ~/.tmux.conf with zsh script
 #   NOTE:       Be sure no ~/.tmux.conf
 #               Be sure no other sessions
@@ -50,4 +50,8 @@ tmux bind-key -n C-Right next-window
 #
 tmux -2 attach-session -t $SESSION 
 
-
+#
+# 	---------------------
+#   set-option status-style 
+# 	---------------------
+tmux set-option -g status-style fg=red bg=black # on acer

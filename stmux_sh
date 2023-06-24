@@ -54,4 +54,6 @@ tmux -2 attach-session -t $SESSION
 # 	---------------------
 #   set-option status-style 
 # 	---------------------
-tmux set-option -g status-style fg=red bg=black # on acer
+# 	-a  adds
+tmux set-option -g status-style fg=red  # on acer
+tmux set-option -ga status-style bg=black # on acer

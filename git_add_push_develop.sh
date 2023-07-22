@@ -1,6 +1,7 @@
 #!/bin/zsh
 
 #	TODO
+#	DEPRECATED (21-July-2023) - SEE Rscripts.   Keep only as shell script example.
 #	  -   
 #       Wed 11Jan2023
 #		-		include built in arry of directories to ALWAYS run.

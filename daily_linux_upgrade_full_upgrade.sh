@@ -4,7 +4,7 @@
 #   TODO:
 #       *   Works, but need to better understand update process
 #
-sudo apt update && apt full-upgrade
+sudo apt update && apt full-upgrade -y
 
 #   update is required
-#   full-upgrade avoids need to confirm -y
+#   full-upgrade avoids need to confirm -y (nope)

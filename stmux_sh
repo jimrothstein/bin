@@ -1,6 +1,17 @@
 #!/bin/zsh
 #
-# 12 JUNE 2023
+# ------------------------------------------------------
+# 2023-10-17  (deprecated)
+# USEAGE > tmux new-session -tX   which uses ~/.tmux.conf
+# creates new session called "X"
+# ------------------------------------------------------
+#
+#
+#
+# ------------------------------------------------------
+#	THIS CODE for REFERENCE ONlY - do not use
+# ------------------------------------------------------
+#
 # - changed status-style
 #   PURPOSE:    Replaces ~/.tmux.conf with zsh script
 #   NOTE:       Be sure no ~/.tmux.conf

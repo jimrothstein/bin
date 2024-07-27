@@ -1,7 +1,18 @@
+#
+#  DO NOT USE
+#
+
+
+
 #  rsync_backup.sh
 #  PURPOSE:  backup entire
 #  REF:  SEE  archwiki, detailed
 
+
+#
+#  DO NOT USE
+#
+# SEE:   rsync_home.sh;  anything useful in this file to copy??
 
 
 

@@ -10,11 +10,12 @@
 ## Details
 # creates /home/jim/bak/
 # a=archive
+# h=human 
 # x=do not cross fileystems border
 # z=compress
-# P=show progresso
+# P=show progresso (or --progress)
 
-rsync -axvP \
+rsync -axvhP \
       /home/jim /home/jim/bak \
       --exclude=cache \
       --exclude=.cache \

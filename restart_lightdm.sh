@@ -1,0 +1,1 @@
+/home/jim/dotfiles/sh/restart_lightdm.sh

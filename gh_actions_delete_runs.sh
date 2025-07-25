@@ -8,3 +8,6 @@ gh run list --json databaseId \    # lists by run id (multiple)
     xargs -IID gh api \
     "repos/$(gh repo view --json nameWithOwner -q .nameWithOwner)/actions/runs/ID" \
     -X DELETE
+
+
+
